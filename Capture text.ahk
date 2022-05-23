@@ -1,4 +1,4 @@
-#SingleInstance Force
+#SingleInstance, Force
 
 WebPage := "https://portaldobitcoin.uol.com.br/cotacao-bitcoin/" ; Defina a URL da página que deseja capturar
  
